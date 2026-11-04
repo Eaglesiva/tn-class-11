@@ -1,0 +1,1830 @@
+{
+  "retrieval_timestamp_utc": "2026-11-04T20:22:18Z",
+  "source_api_url": "https://emis3.tnschools.gov.in/api/get_scert_books",
+  "raw_response_sha256": "404f283443b1f7a6a0fae814092aae556d0419ad2b4b2c0b0a0f7ebd756cc3e4",
+  "academic_records": {
+    "General Tamil": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "General Tamil",
+          "term": "Term-Full",
+          "file_name": "11th_Genreal Tamil.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Genreal Tamil.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        }
+      }
+    },
+    "Advanced Tamil": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Advanced Tamil",
+          "term": "Term-Full",
+          "file_name": "11th_Advance Tamil_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Advance Tamil_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        }
+      }
+    },
+    "General English": {
+      "Term-Full": {
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "General English",
+          "term": "Term-Full",
+          "file_name": "11th_General English_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_General English_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Communicative English": {
+      "Term-Full": {
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Communicative English",
+          "term": "Term-Full",
+          "file_name": "11th_Communicative English_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Communicative English_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Mathematics (Vol I)": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Mathematics (Vol I)",
+          "term": "Term-Full",
+          "file_name": "11th_Maths_Vol-1_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Maths_Vol-1_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Mathematics (Vol I)",
+          "term": "Term-Full",
+          "file_name": "11th_Maths_Vol-1_English Medium_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Maths_Vol-1_English Medium_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Mathematics (Vol II)": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Mathematics (Vol II)",
+          "term": "Term-Full",
+          "file_name": "XIth_Maths_Vol-2_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/XIth_Maths_Vol-2_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Mathematics (Vol II)",
+          "term": "Term-Full",
+          "file_name": "11th_Mathematics-Vol-2_English Medium_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Mathematics-Vol-2_English Medium_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Physics (Vol I)": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Physics (Vol I)",
+          "term": "Term-Full",
+          "file_name": "11th_Physics_Vol-1_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Physics_Vol-1_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Physics (Vol I)",
+          "term": "Term-Full",
+          "file_name": "11th_Physics Vol 1_English Medium_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Physics Vol 1_English Medium_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Physics (Vol II)": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Physics (Vol II)",
+          "term": "Term-Full",
+          "file_name": "11th_Physics_Vol-2_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Physics_Vol-2_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Physics (Vol II)",
+          "term": "Term-Full",
+          "file_name": "11th_Physics_Vol-2_English Medium_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Physics_Vol-2_English Medium_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Chemistry (Vol I)": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Chemistry (Vol I)",
+          "term": "Term-Full",
+          "file_name": "11th_Chemistry_Vol-1_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Chemistry_Vol-1_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Chemistry (Vol I)",
+          "term": "Term-Full",
+          "file_name": "11th_Chemistry_Vol-2_English Medium_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Chemistry_Vol-2_English Medium_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Chemistry (Vol II)": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Chemistry (Vol II)",
+          "term": "Term-Full",
+          "file_name": "11th Chemistry_Vol-2 TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Chemistry_Vol-2 TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Chemistry (Vol II)",
+          "term": "Term-Full",
+          "file_name": "11th_Chemistry_Vol-2_English Medium_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Chemistry_Vol-2_English Medium_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Botany ": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Botany ",
+          "term": "Term-Full",
+          "file_name": "11th_Botany_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Botany_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Botany ",
+          "term": "Term-Full",
+          "file_name": "11th_Botany_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Botany_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Zoology ": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Zoology ",
+          "term": "Term-Full",
+          "file_name": "11th_Zoology_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Zoology_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Zoology ",
+          "term": "Term-Full",
+          "file_name": "11th_Zoology_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Zoology_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Bio-Botany ": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Bio-Botany ",
+          "term": "Term-Full",
+          "file_name": "11th Bio-Botany_TM.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Bio-Botany_TM.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Bio-Botany ",
+          "term": "Term-Full",
+          "file_name": "11th Bio-Botany_EM.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Bio-Botany_EM.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Bio-Zoology ": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Bio-Zoology ",
+          "term": "Term-Full",
+          "file_name": "11th_Bio-Zoology_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Bio-Zoology_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Bio-Zoology ",
+          "term": "Term-Full",
+          "file_name": "11th_Bio-Zoology_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Bio-Zoology_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Bio-Chemistry": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Bio-Chemistry",
+          "term": "Term-Full",
+          "file_name": "11th_Bio-Chemistry_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Bio-Chemistry_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Bio-Chemistry",
+          "term": "Term-Full",
+          "file_name": "11th_Bio-Chemistry_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Bio-Chemistry_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Micro Biology": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Micro Biology",
+          "term": "Term-Full",
+          "file_name": "11th_Micro_Biology_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Micro_Biology_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Micro Biology",
+          "term": "Term-Full",
+          "file_name": "11th_Micro_Biology_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Micro_Biology_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Computer Science ": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Computer Science ",
+          "term": "Term-Full",
+          "file_name": "11th_Computer Science_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Computer Science_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Computer Science ",
+          "term": "Term-Full",
+          "file_name": "11th_Computer Science_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Computer Science_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Computer Application ": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Computer Application ",
+          "term": "Term-Full",
+          "file_name": "11th_Computer Application_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Computer Application_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Computer Application ",
+          "term": "Term-Full",
+          "file_name": "11th_Computer Application_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Computer Application_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Commerce": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Commerce",
+          "term": "Term-Full",
+          "file_name": "11th_Commerce_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Commerce_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Commerce",
+          "term": "Term-Full",
+          "file_name": "11th_Commerce_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Commerce_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Economics": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Economics",
+          "term": "Term-Full",
+          "file_name": "11th_Economics_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Economics_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Economics",
+          "term": "Term-Full",
+          "file_name": "11th_Economics_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Economics_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Statistics": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Statistics",
+          "term": "Term-Full",
+          "file_name": "11th_Statistic_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Statistic_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Statistics",
+          "term": "Term-Full",
+          "file_name": "11th_Statistic_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Statistic_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Geography": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Geography",
+          "term": "Term-Full",
+          "file_name": "11th_Geography_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Geography_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Geography",
+          "term": "Term-Full",
+          "file_name": "11th_Geography_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Geography_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Accountancy ": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Accountancy ",
+          "term": "Term-Full",
+          "file_name": "11th_Accountancy_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Accountancy_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Accountancy ",
+          "term": "Term-Full",
+          "file_name": "11th_Accountancy_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Accountancy_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Business Mathematics and Statistics ": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Business Mathematics and Statistics ",
+          "term": "Term-Full",
+          "file_name": "11th_Bussiness Maths_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Bussiness Maths_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Business Mathematics and Statistics ",
+          "term": "Term-Full",
+          "file_name": "11th_Bussiness Maths_TM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Bussiness Maths_TM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "History ": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "History ",
+          "term": "Term-Full",
+          "file_name": "11th_History_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_History_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "History ",
+          "term": "Term-Full",
+          "file_name": "11th_History_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_History_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Political Science ": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Political Science ",
+          "term": "Term-Full",
+          "file_name": "11th_Political Science TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Political Science TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Political Science ",
+          "term": "Term-Full",
+          "file_name": "11th_Political Science EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Political Science EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Ethics and Indian Culture ": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Ethics and Indian Culture ",
+          "term": "Term-Full",
+          "file_name": "11thth_Ethics and Indian Culture_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11thth_Ethics and Indian Culture_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        }
+      }
+    },
+    "Nursing General": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Nursing General",
+          "term": "Term-Full",
+          "file_name": "11th_General Nursing_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_General Nursing_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Nursing General",
+          "term": "Term-Full",
+          "file_name": "11th_General Nursing_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_General Nursing_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Nutrition and Dietics": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Nutrition and Dietics",
+          "term": "Term-Full",
+          "file_name": "11th_Nutrition and Dietetics_TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Nutrition and Dietetics_TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Nutrition and Dietics",
+          "term": "Term-Full",
+          "file_name": "11th_Nutrition and Dietetics_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Nutrition and Dietetics_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Home Science": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Home Science",
+          "term": "Term-Full",
+          "file_name": "11th_Home Science _TM_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Home Science _TM_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Home Science",
+          "term": "Term-Full",
+          "file_name": "11th_Home Science_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Home Science_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Basic Electronic Engineering": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Basic Electronic Engineering",
+          "term": "Term-Full",
+          "file_name": "11th_Basic Electronics Engineering_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Basic Electronics Engineering_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Basic Electronic Engineering",
+          "term": "Term-Full",
+          "file_name": "11th Std Basic Electronics Engineering Theory_Practicle_ EM _Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Std Basic Electronics Engineering Theory_Practicle_ EM _Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Basic Mechanical Engineering": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Basic Mechanical Engineering",
+          "term": "Term-Full",
+          "file_name": "11th_Basic Mechanical Engineering_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Basic Mechanical Engineering_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Basic Mechanical Engineering",
+          "term": "Term-Full",
+          "file_name": "11th_Basic Mechanical Engg_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Basic Mechanical Engg_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Basic Electrical Engineering": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Basic Electrical Engineering",
+          "term": "Term-Full",
+          "file_name": "11th_Basic Electrical Engineering_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Basic Electrical Engineering_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Basic Electrical Engineering",
+          "term": "Term-Full",
+          "file_name": "11th_Std_Basic_Electrical_Engineering_Theory_Practicle_ EM_Text_2024.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Std_Basic_Electrical_Engineering_Theory_Practicle_ EM_Text_2024.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Basic Automobile Engineering": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Basic Automobile Engineering",
+          "term": "Term-Full",
+          "file_name": "11th_Basic Automobile Engineering_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Basic Automobile Engineering_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Basic Automobile Engineering",
+          "term": "Term-Full",
+          "file_name": "11th_Basic Automobile Engineering_English Medium_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Basic Automobile Engineering_English Medium_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Basic Civil Engineering": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Basic Civil Engineering",
+          "term": "Term-Full",
+          "file_name": "11th_Basic Civil Engineering_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Basic Civil Engineering_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Basic Civil Engineering",
+          "term": "Term-Full",
+          "file_name": "11th_Basic Civil Engineering_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Basic Civil Engineering_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Auditing Practical ": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Auditing Practical ",
+          "term": "Term-Full",
+          "file_name": "11th_Auditing_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Auditing_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Auditing Practical ",
+          "term": "Term-Full",
+          "file_name": "11_Auditing_Theory_Practicle_ EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11_Auditing_Theory_Practicle_ EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Nursing Vocational ": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Nursing Vocational ",
+          "term": "Term-Full",
+          "file_name": "11th_Nursing_Vocational_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Nursing_Vocational_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Nursing Vocational ",
+          "term": "Term-Full",
+          "file_name": "11th_Nursing_Vocational_English Medium_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Nursing_Vocational_English Medium_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Textile Technology": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Textile Technology",
+          "term": "Term-Full",
+          "file_name": "11th_Textile Technology_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Textile Technology_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        }
+      }
+    },
+    "Office Mangement and Secretaryship": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Office Mangement and Secretaryship",
+          "term": "Term-Full",
+          "file_name": "11th_Offic Management and Secretaryship_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Offic Management and Secretaryship_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Office Mangement and Secretaryship",
+          "term": "Term-Full",
+          "file_name": "11th_Std_Office_Management_&_Secretaryship_Theory_Practicle_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Std_Office_Management_&_Secretaryship_Theory_Practicle_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Food Service Management": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Food Service Management",
+          "term": "Term-Full",
+          "file_name": "11th_Food Service Management_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Food Service Management_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Food Service Management",
+          "term": "Term-Full",
+          "file_name": "11th_Food Service Management_English Medium_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Food Service Management_English Medium_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Textile and Dress Designing": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Textile and Dress Designing",
+          "term": "Term-Full",
+          "file_name": "11th_Textiles & Dress Designing_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Textiles & Dress Designing_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Textile and Dress Designing",
+          "term": "Term-Full",
+          "file_name": "11th Textiles and Dress Designing EM Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Textiles and Dress Designing EM Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Agricultural Science": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Agricultural Science",
+          "term": "Term-Full",
+          "file_name": "11th_Agriculture_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Agriculture_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        }
+      }
+    },
+    "Employability Skills": {
+      "Term-Full": {
+        "16": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Employability Skills",
+          "term": "Term-Full",
+          "file_name": "11th_ Employability Skill_Tamil Medium_Text.pdf",
+          "medium": "16",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_ Employability Skill_Tamil Medium_Text.pdf",
+          "medium_name": "Tamil",
+          "type": "academic"
+        },
+        "19": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Employability Skills",
+          "term": "Term-Full",
+          "file_name": "11th_ Employability Skill_EM_Text.pdf",
+          "medium": "19",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_ Employability Skill_EM_Text.pdf",
+          "medium_name": "English",
+          "type": "academic"
+        }
+      }
+    },
+    "Telugu Reader": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Telugu Reader",
+          "term": "Term-Full",
+          "file_name": "11th_Telugu_Reader_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Telugu_Reader_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        }
+      }
+    },
+    "Kannada Reader": {
+      "Term-Full": {
+        "5": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Kannada Reader",
+          "term": "Term-Full",
+          "file_name": "11th_Kannada_Reader_Text.pdf",
+          "medium": "5",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Kannada_Reader_Text.pdf",
+          "medium_name": "Kannada",
+          "type": "academic"
+        }
+      }
+    },
+    "Malayalam Reader": {
+      "Term-Full": {
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Malayalam Reader",
+          "term": "Term-Full",
+          "file_name": "11th Std Malayalam Reader Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Std Malayalam Reader Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        }
+      }
+    },
+    "Urdu Reader": {
+      "Term-Full": {
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Urdu Reader",
+          "term": "Term-Full",
+          "file_name": "11th_Urdu_Reader_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Urdu_Reader_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "Hindi Reader": {
+      "Term-Full": {
+        "4": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Hindi Reader",
+          "term": "Term-Full",
+          "file_name": "11th_Hindi_Reader.pdf",
+          "medium": "4",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Hindi_Reader.pdf",
+          "medium_name": "Hindi",
+          "type": "academic"
+        }
+      }
+    },
+    "Sanskrit Reader": {
+      "Term-Full": {
+        "14": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Sanskrit Reader",
+          "term": "Term-Full",
+          "file_name": "11th Std Sanskrit Reader Text.pdf",
+          "medium": "14",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Std Sanskrit Reader Text.pdf",
+          "medium_name": "Sanskrit",
+          "type": "academic"
+        }
+      }
+    },
+    "Arabic Reader": {
+      "Term-Full": {
+        "31": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "Arabic Reader",
+          "term": "Term-Full",
+          "file_name": "11th_Arabic_Reader_Text.pdf",
+          "medium": "31",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Arabic_Reader_Text.pdf",
+          "medium_name": "Arabic",
+          "type": "academic"
+        }
+      }
+    },
+    "French Reader": {
+      "Term-Full": {
+        "29": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "French Reader",
+          "term": "Term-Full",
+          "file_name": "11th_French_Reader_Text.pdf",
+          "medium": "29",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_French_Reader_Text.pdf",
+          "medium_name": "French",
+          "type": "academic"
+        }
+      }
+    },
+    "German Reader": {
+      "Term-Full": {
+        "30": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "German Reader",
+          "term": "Term-Full",
+          "file_name": "11th_Germen_Reader_Text.pdf",
+          "medium": "30",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Germen_Reader_Text.pdf",
+          "medium_name": "German",
+          "type": "academic"
+        }
+      }
+    },
+    "MATHS VOL - I": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "MATHS VOL - I",
+          "term": "Term-Full",
+          "file_name": "11th_Maths_Vol-I_Telugu_Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Maths_Vol-I_Telugu_Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "MATHS VOL - I",
+          "term": "Term-Full",
+          "file_name": "11th_Mathematics_Vol-1_Malayalam_Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Mathematics_Vol-1_Malayalam_Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "MATHS VOL - I",
+          "term": "Term-Full",
+          "file_name": "11th Mathematics_Vol-1_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Mathematics_Vol-1_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "MATHS VOL - II": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "MATHS VOL - II",
+          "term": "Term-Full",
+          "file_name": "11th_Maths_Vol_II_Telugu_Medium_Text_.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Maths_Vol_II_Telugu_Medium_Text_.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "MATHS VOL - II",
+          "term": "Term-Full",
+          "file_name": "11th_Mathematics-Vol 2_Malayalam Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Mathematics-Vol 2_Malayalam Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "MATHS VOL - II",
+          "term": "Term-Full",
+          "file_name": "11th Mathematics_Vol-2_Urdu Medium.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Mathematics_Vol-2_Urdu Medium.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "PHYSICS VOL - I ": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "PHYSICS VOL - I ",
+          "term": "Term-Full",
+          "file_name": "11th_Physics_Vol_1_Telugu_Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Physics_Vol_1_Telugu_Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "PHYSICS VOL - I ",
+          "term": "Term-Full",
+          "file_name": "11th_Physics_Vol-1_Malayalm Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Physics_Vol-1_Malayalm Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "PHYSICS VOL - I ",
+          "term": "Term-Full",
+          "file_name": "11th Physics_Vol-1_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Physics_Vol-1_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "PHYSICS VOL - II": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "PHYSICS VOL - II",
+          "term": "Term-Full",
+          "file_name": "11th Physics Vol-2_Telugu Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Physics Vol-2_Telugu Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "PHYSICS VOL - II",
+          "term": "Term-Full",
+          "file_name": "11th_Physics_Vol-2_Malayalam_Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Physics_Vol-2_Malayalam_Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "PHYSICS VOL - II",
+          "term": "Term-Full",
+          "file_name": "11th_Physics Vol 2_Urdu_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Physics Vol 2_Urdu_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "CHEMISTRY VOL - I": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "CHEMISTRY VOL - I",
+          "term": "Term-Full",
+          "file_name": "11th Std Chemistry Vol-1 Telugu_Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Std Chemistry Vol-1 Telugu_Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "CHEMISTRY VOL - I",
+          "term": "Term-Full",
+          "file_name": "11th_Chemistry Vol-1_Malayalam Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Chemistry Vol-1_Malayalam Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "CHEMISTRY VOL - I",
+          "term": "Term-Full",
+          "file_name": "11th_Chemistry_Vol 1_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Chemistry_Vol 1_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "CHEMISTRY VOL - II": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "CHEMISTRY VOL - II",
+          "term": "Term-Full",
+          "file_name": "11th_Chemistry_Vol-2_Telugu_Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Chemistry_Vol-2_Telugu_Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "CHEMISTRY VOL - II",
+          "term": "Term-Full",
+          "file_name": "11th_Chemistry Vol 2_Malayalam Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Chemistry Vol 2_Malayalam Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "CHEMISTRY VOL - II",
+          "term": "Term-Full",
+          "file_name": "11th_Chemistry_Vol-2_Urdu_Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Chemistry_Vol-2_Urdu_Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "BOTANY": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "BOTANY",
+          "term": "Term-Full",
+          "file_name": "11th_Botany_Telugu Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Botany_Telugu Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "BOTANY",
+          "term": "Term-Full",
+          "file_name": "11th_Botany_Malayalam Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Botany_Malayalam Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "BOTANY",
+          "term": "Term-Full",
+          "file_name": "11th Botany_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Botany_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "BIO - BOTANY": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "BIO - BOTANY",
+          "term": "Term-Full",
+          "file_name": "11th_Bio Botany_Telugu Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Bio Botany_Telugu Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "BIO - BOTANY",
+          "term": "Term-Full",
+          "file_name": "11th Std_Biology Botany_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Std_Biology Botany_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "ZOOLOGY": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "ZOOLOGY",
+          "term": "Term-Full",
+          "file_name": "11th_Zoology_Telugu_Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Zoology_Telugu_Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "ZOOLOGY",
+          "term": "Term-Full",
+          "file_name": "11th_Zoology_Malayalam_Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Zoology_Malayalam_Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "ZOOLOGY",
+          "term": "Term-Full",
+          "file_name": "11th_Zoology_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Zoology_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "BIO - ZOOLOGY": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "BIO - ZOOLOGY",
+          "term": "Term-Full",
+          "file_name": "11th_Bio Zoology_Telugu_Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Bio Zoology_Telugu_Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "BIO - ZOOLOGY",
+          "term": "Term-Full",
+          "file_name": "11th Biology-Zoology_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Biology-Zoology_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "COMMERCE": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "COMMERCE",
+          "term": "Term-Full",
+          "file_name": "11th_Commerce_Telugu_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Commerce_Telugu_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        }
+      }
+    },
+    "ACCOUNTANCY": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "ACCOUNTANCY",
+          "term": "Term-Full",
+          "file_name": "11th_Accountancy_Telugu_Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Accountancy_Telugu_Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        }
+      }
+    },
+    "ECONOMICS": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "ECONOMICS",
+          "term": "Term-Full",
+          "file_name": "11th_Economics_Telugu_Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Economics_Telugu_Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "ECONOMICS",
+          "term": "Term-Full",
+          "file_name": "11th_Economics_Malayalam Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Economics_Malayalam Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "ECONOMICS",
+          "term": "Term-Full",
+          "file_name": "11th Economics_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Economics_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "HISTORY": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "HISTORY",
+          "term": "Term-Full",
+          "file_name": "11th_History_Telugu Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_History_Telugu Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "HISTORY",
+          "term": "Term-Full",
+          "file_name": "11th_History_Malayalam_Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_History_Malayalam_Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "HISTORY",
+          "term": "Term-Full",
+          "file_name": "11th_History_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_History_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "GEOGRAPHY": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "GEOGRAPHY",
+          "term": "Term-Full",
+          "file_name": "11th_Geography_Telugu_Medium_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Geography_Telugu_Medium_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "GEOGRAPHY",
+          "term": "Term-Full",
+          "file_name": "11th_Geography_Malayalam_Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Geography_Malayalam_Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "GEOGRAPHY",
+          "term": "Term-Full",
+          "file_name": "11th Geography_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Geography_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "POLITICAL SCIENCE": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "POLITICAL SCIENCE",
+          "term": "Term-Full",
+          "file_name": "11th_Political_Science_Telugu_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Political_Science_Telugu_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "POLITICAL SCIENCE",
+          "term": "Term-Full",
+          "file_name": "11th_Political Science_Malayalam_Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Political Science_Malayalam_Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "POLITICAL SCIENCE",
+          "term": "Term-Full",
+          "file_name": "11th_Political Science_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Political Science_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "COMPUTER SCIENCE": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "COMPUTER SCIENCE",
+          "term": "Term-Full",
+          "file_name": "11th Computer Science_Telugu_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Computer Science_Telugu_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "COMPUTER SCIENCE",
+          "term": "Term-Full",
+          "file_name": "11th Computer Science_Urdu Medium_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Computer Science_Urdu Medium_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "COMPUTER APPLICATION": {
+      "Term-Full": {
+        "17": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "COMPUTER APPLICATION",
+          "term": "Term-Full",
+          "file_name": "11th Computer Applications _Telugu_Text.pdf",
+          "medium": "17",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th Computer Applications _Telugu_Text.pdf",
+          "medium_name": "Telugu",
+          "type": "academic"
+        },
+        "18": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "COMPUTER APPLICATION",
+          "term": "Term-Full",
+          "file_name": "11th_Computer_Applications_Urdu_Text.pdf",
+          "medium": "18",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Computer_Applications_Urdu_Text.pdf",
+          "medium_name": "Urdu",
+          "type": "academic"
+        }
+      }
+    },
+    "EMPLOYABILITY SKILLS": {
+      "Term-Full": {
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "EMPLOYABILITY SKILLS",
+          "term": "Term-Full",
+          "file_name": "11th_Employability Skills Malayala Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Employability Skills Malayala Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        }
+      }
+    },
+    "BASIC ELECTRICAL ENGINEERING": {
+      "Term-Full": {
+        "8": {
+          "class_name": "XI",
+          "class_id": "11",
+          "subject": "BASIC ELECTRICAL ENGINEERING",
+          "term": "Term-Full",
+          "file_name": "11th_ Basic Electrical Engineering_Malayalam Medium_Text.pdf",
+          "medium": "8",
+          "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_ Basic Electrical Engineering_Malayalam Medium_Text.pdf",
+          "medium_name": "Malayalam",
+          "type": "academic"
+        }
+      }
+    }
+  },
+  "valuation_records": [
+    {
+      "class_name": "XI",
+      "class_id": "11",
+      "subject": null,
+      "term": null,
+      "file_name": "11th_Std_Value_Education_Module.pdf",
+      "medium": "16",
+      "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/valuation_textbook/11th_Value Education Module/11th_Value Education_Module.pdf",
+      "medium_name": "Tamil",
+      "type": "valuation_textbook"
+    }
+  ],
+  "physical_education_records": {
+    "Physical Education - Teacher's Resource Book": {
+      "Tamil": {
+        "class_name": "XI",
+        "class_id": "11",
+        "subject": "Physical Education - Teacher's Resource Book",
+        "term": null,
+        "file_name": "PET_Class_11-12_Tamil Medium_Text",
+        "medium": "16",
+        "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/PET_Class_11-12_Tamil Medium_Text.pdf",
+        "medium_name": "Tamil",
+        "type": "physical_education"
+      },
+      "English": {
+        "class_name": "XI",
+        "class_id": "11",
+        "subject": "Physical Education - Teacher's Resource Book",
+        "term": null,
+        "file_name": "PET_Class_11-12_English Medium_Text",
+        "medium": "19",
+        "book_path": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/PET_Class_11-12_English Medium_Text.pdf",
+        "medium_name": "English",
+        "type": "physical_education"
+      }
+    }
+  }
+}
