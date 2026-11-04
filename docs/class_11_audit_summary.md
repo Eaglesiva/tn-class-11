@@ -1,6 +1,6 @@
 # SCERT Class 11 Textbook Edition Reconciliation & Audit Report
 
-**Execution Timestamp:** 2026-11-05T02:10:00+05:30  
+**Execution Timestamp:** 2026-11-05T02:23:00+05:30  
 **Target Repository:** [Eaglesiva/tn-class-11](https://github.com/Eaglesiva/tn-class-11)  
 **Audit Branch:** [`scert/class-11/audit-2026-27`](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/audit-2026-27)  
 **Update Storage Branch:** [`scert/class-11/official-version-updates`](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/official-version-updates)  
@@ -15,10 +15,10 @@
 | Category | Count | Pages | Status & Repository Location |
 | :--- | :---: | :---: | :--- |
 | **GitHub Is Newer (2025 Revised)** | **4** | 1,152 | Preserved on `main` (Tamil 176p, Maths TM Vol 1 320p, Maths TM Vol 2 288p, Maths EM Vol 1 368p) |
-| **Same Version (2024 Reprint Match)** | **4** | 1,264 | Preserved on `main` (Maths EM Vol 2 288p, History TM 352p, Geography TM 336p, Political Science TM 328p) |
+| **Same Version (2024 Reprint Match)** | **4** | **1,304** | Preserved on `main` (Maths EM Vol 2 288p, History TM 352p, Geography TM 336p, Political Science TM 328p) |
 | **Official Edition Updates (2024 Reprint)** | **23** | **7,528** | Stored & verified on branch `scert/class-11/official-version-updates` |
 | **API Mapping Unresolved (Chemistry EM Vol 1)** | **1** | **304** | Preserved on branch `scert/class-11/official-version-updates`; API duplication documented |
-| **Total In-Scope Books** | **32** | **10,248** | **All 32 books reconciled under 4-tier verification protocol** |
+| **Total In-Scope Books** | **32** | **10,288** | **All 32 books reconciled under 4-tier verification protocol** |
 
 ---
 
@@ -34,12 +34,13 @@
 
 ---
 
-## 3. Layer 1 Source Verification Metrics (HTTP HEAD 32/32 Confirmed)
+## 3. Layer 1 Source Verification Metrics (HTTP GET & HEAD Confirmed)
 
-All 32 official book URLs were queried via HTTP HEAD on the official SCERT CloudFront CDN without full payload download (Zero Local Download policy):
-- **HTTP 200 Status**: Confirmed for all 32/32 books.
+All 32 official book URLs were verified on the official SCERT CloudFront CDN without full payload download (Zero Local Download policy):
+- **HTTP GET Status**: `GET_200` confirmed for all 32/32 books.
+- **HTTP HEAD Status**: `HEAD_200` confirmed for all 32/32 books.
 - **Content-Length (Bytes)**: Captured for all 32/32 books.
-- **ETag**: Captured for all 32/32 books.
+- **Source ETag**: Captured for all 32/32 books as an immutable CDN identifier (distinct from cryptographic Master SHA-256).
 - **Master PDF SHA-256**: Formally recorded as `NOT_CAPTURED` (Zero Local Download policy).
 
 ---
@@ -48,9 +49,12 @@ All 32 official book URLs were queried via HTTP HEAD on the official SCERT Cloud
 
 Verified directly against GitHub remote tree (`Commit: c1a58225`, `Tree: 349b7a6a`) on branch `scert/class-11/official-version-updates`:
 - **Total Edition Directories**: 24/24 active edition directories.
-- **Total Split Pages**: Exactly **7,832 pages**.
+- **Total Split Pages**: Exactly **7,832 pages** (23 Official Updates = 7,528p + 1 API Mapping Unresolved = 304p).
 - **Sequential Validation**: **100% Passed** (every book strictly sequential from `page_001.pdf` to `page_xxx.pdf`, 0 gaps, 0 duplicates).
 - **Manifest Completeness**: All 24 directories possess `edition.json`, `edition.md`, `manifest.json`, and `pages.json`.
+
+> [!IMPORTANT]
+> **Scope of Validation Note**: Split Validation certifies the physical integrity, page continuity, sequential numbering, and manifest completeness of the newly generated edition sets. It confirms Layer 1 (Source), Layer 2 (Edition/Imprint), and Layer 3 (Split Integrity). Full page-by-page text and visual diff against legacy GitHub `main` editions (Layer 4) is a separate post-reconciliation analysis and is pending.
 
 ### Verified Editions Table:
 | # | Edition Path | Pages | Sequential Range | Manifests Present |
