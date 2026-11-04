@@ -1,0 +1,47 @@
+name: SCERT Class 11 Cloud Edition Update (4 Batches)
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch:
+        description: 'Batch number to run (1, 2, 3, 4, or all)'
+        required: true
+        default: '1'
+  push:
+    branches:
+      - 'scert/class-11/official-version-updates'
+
+permissions:
+  contents: write
+
+jobs:
+  cloud_download_and_split:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install pymupdf requests
+
+      - name: Run Cloud Edition Processing Script (Batch 1)
+        run: |
+          python scripts/cloud_runner_c11_update.py 1
+
+      - name: Commit and Push Batch 1 Updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add english/ physics_tm/ physics_em/ chemistry_tm/ docs/
+          git commit -m "feat(scert): cloud download, verify and split Class 11 Batch 1 (English, Physics TM/EM, Chem TM)" || echo "No changes to commit"
+          git push origin ${{ github.ref_name }}
