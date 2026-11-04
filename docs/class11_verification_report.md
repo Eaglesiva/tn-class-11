@@ -4,10 +4,10 @@
 
 வகுப்பு 11 (`Eaglesiva/tn-class-11`) பாடநூல்களின் தற்போதைய GitHub பதிப்புகளும், தமிழக அரசு SCERT-ன் அதிகாரப்பூர்வ இணையதள Master PDF-களும் **First Edition, Revised Edition, Reprint Years, மற்றும் மொத்தப் பக்க எண்ணிக்கை** ஆகியவற்றின் அடிப்படையில் முழுமையாக ஆய்வு செய்யப்பட்டன.
 
-Class 11-ல் உள்ள 26 பாடத் தொகுதிகளில்:
-- **GitHub-ல் உள்ளதே புதிய பதிப்பாக உள்ளவை (GITHUB_IS_NEWER - 5 பாடங்கள்)**: Tamil, Maths TM (Vol-1, Vol-2), Maths EM (Vol-1). இவற்றில் 2025 Revised Edition imprint மற்றும் 14417 / 1098 உதவி எண்கள் சேர்க்கப்பட்டுள்ளன.
-- **அரசு Master-உடன் 100% ஒத்துப் போகும் பாடங்கள் (SAME_VERSION - 4 பாடங்கள்)**: Maths EM (Vol-2), History TM, Geography TM, Political Science TM.
-- **பதிப்பு வேறுபாடு உள்ள பாடங்கள் (VERSION_DIFFERENT - 17 பாடங்கள்)**: Physics (TM & EM), Chemistry (TM & EM), Botany (TM & EM), Zoology (TM & EM), Computer Science (TM & EM), Commerce (TM & EM), Accountancy (TM & EM), Economics (TM & EM), English, History EM, Geography EM, Political Science EM.
+Class 11-ல் உள்ள 32 நூல்களில்:
+- **GitHub-ல் உள்ளதே புதிய பதிப்பாக உள்ளவை (GITHUB_IS_NEWER - 4 நூல்கள்)**: Tamil (Full), Maths TM (Vol-1, Vol-2), Maths EM (Vol-1). இவற்றில் 2025 Revised Edition imprint மற்றும் 14417 / 1098 உதவி எண்கள் சேர்க்கப்பட்டுள்ளன.
+- **அரசு Master-உடன் 100% ஒத்துப் போகும் பாடங்கள் (SAME_VERSION - 4 நூல்கள்)**: Maths EM (Vol-2), History TM, Geography TM, Political Science TM.
+- **பதிப்பு வேறுபாடு உள்ள பாடங்கள் (VERSION_DIFFERENT - 24 நூல்கள்)**: Physics (TM & EM, Vol-1 & Vol-2 - 4 நூல்கள்), Chemistry (TM & EM, Vol-1 & Vol-2 - 4 நூல்கள்), Botany (TM & EM - 2 நூல்கள்), Zoology (TM & EM - 2 நூல்கள்), Computer Science (TM & EM - 2 நூல்கள்), Commerce (TM & EM - 2 நூல்கள்), Accountancy (TM & EM - 2 நூல்கள்), Economics (TM & EM - 2 நூல்கள்), English (1 நூல்), History EM (1 நூல்), Geography EM (1 நூல்), Political Science EM (1 நூல்).
 
 ---
 
