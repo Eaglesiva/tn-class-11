@@ -13,7 +13,7 @@ batches = {
     ],
     2: [
         {"key": "chemistry_tm_vol2", "subj_dir": "chemistry_tm", "vol": "vol2", "name": "Chemistry (Vol II)", "med": "Tamil", "url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th%20Chemistry_Vol-2%20TM_Text.pdf"},
-        {"key": "chemistry_em_vol1", "subj_dir": "chemistry_em", "vol": "vol1", "name": "Chemistry (Vol I)", "med": "English", "url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Chemistry_Vol-2_English%20Medium_Text.pdf"},
+        {"key": "chemistry_em_vol1", "subj_dir": "chemistry_em", "vol": "vol1", "name": "Chemistry (Vol I)", "med": "English", "url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Chemistry_Vol-1_English%20Medium_Text.pdf"},
         {"key": "chemistry_em_vol2", "subj_dir": "chemistry_em", "vol": "vol2", "name": "Chemistry (Vol II)", "med": "English", "url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Chemistry_Vol-2_English%20Medium_Text.pdf"},
         {"key": "botany_tm_full", "subj_dir": "botany_tm", "vol": "full", "name": "Botany", "med": "Tamil", "url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Botany_TM_Text.pdf"},
         {"key": "botany_em_full", "subj_dir": "botany_em", "vol": "full", "name": "Botany", "med": "English", "url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/11th_Botany_EM_Text.pdf"},
@@ -68,9 +68,6 @@ for b in current_batch:
     print(f"Total pages: {total_pages}")
     print(f"Page 2 Imprint: {' | '.join(imprint_lines)}")
     
-    # Structure:
-    # If vol == "full": {subj_dir}/editions/2026-27-scert-official/
-    # If vol != "full": {subj_dir}/editions/2026-27-scert-official/{vol}/
     if b['vol'] == 'full':
         ed_base = os.path.join(b['subj_dir'], "editions", edition_name)
     else:
