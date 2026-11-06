@@ -7,7 +7,7 @@
 - **காரணம்:** ‘யானை டாக்டர்’ குறும் புதின இலக்கிய வடிவத்தைச் சேர்ந்தது.
 - **Source:** https://www.studentsguide360.com/11th-tamil-unit-2-book-back-answer/
 - **Source reference:** இயல் 2, பல்வுள் தெரிக, வினா 1
-- **Verification:** VERIFIED_WITH_TEXTBOOK_CONTEXT
+- **Verification:** ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING
 
 ### 2. மண்ணுக்கு வளம் சேர்ப்பவை எவை?
 - **விடை:** இவை மூன்றும்
@@ -21,21 +21,21 @@
 - **காரணம்:** இங்கு ‘போது’ என்பது மலரின் மொட்டு என்ற பொருளில் வருகிறது.
 - **Source:** https://www.studentsguide360.com/11th-tamil-unit-2-book-back-answer/
 - **Source reference:** இயல் 2, பல்வுள் தெரிக, வினா 3
-- **Verification:** VERIFIED_WITH_TEXTBOOK_CONTEXT
+- **Verification:** ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING
 
 ### 4. கருப்பட்டி, பனங்கற்கண்டு போன்றவை எந்த வகையைச் சேர்ந்தவை?
 - **விடை:** மதிப்புக் கூட்டுப் பொருள்கள் மட்டும்
 - **காரணம்:** பதநீரைச் செயலாக்கி உருவாக்கப்படும் பொருட்கள் மதிப்புக் கூட்டுப் பொருள்களாகும்.
 - **Source:** https://www.studentsguide360.com/11th-tamil-unit-2-book-back-answer/
 - **Source reference:** இயல் 2, பல்வுள் தெரிக, வினா 4
-- **Verification:** VERIFIED_WITH_TEXTBOOK_CONTEXT
+- **Verification:** ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING
 
 ### 5. பிழையான தொடரைக் கண்டறிக.
 - **விடை:** குறைந்த எட்டுத்தொகை அடிகளை ஐங்குறுநூறு நூல்களுள் உடையது.
 - **காரணம்:** இந்தக் கூற்று பிழையானது என இரு வழிகாட்டிகளும் குறிக்கின்றன.
 - **Source:** https://www.studentsguide360.com/11th-tamil-unit-2-book-back-answer/
 - **Source reference:** இயல் 2, பல்வுள் தெரிக, வினா 5
-- **Verification:** VERIFIED_WITH_TEXTBOOK_CONTEXT
+- **Verification:** ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING
 
 ## குறு / சிறு / நெடுவினாக்கள்
 
