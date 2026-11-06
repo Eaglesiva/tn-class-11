@@ -1,0 +1,77 @@
+[
+  {
+    "id": "TN11-TAM-U02-Q001",
+    "question": "பொருத்தமான இலக்கிய வடிவம் எது?",
+    "options": [
+      "ஏதிலிக் குருவிகள் – மரபுக் கவிதை",
+      "திருமலை முருகன் பள்ளு – சிறுகதை",
+      "யானை டாக்டர் – குறும் புதினம்",
+      "ஐங்குறுநூறு – புதுக்கவிதை"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "‘யானை டாக்டர்’ குறும் புதின இலக்கிய வடிவத்தைச் சேர்ந்தது.",
+    "sourceUrl": "https://www.studentsguide360.com/11th-tamil-unit-2-book-back-answer/",
+    "sourcePage": "இயல் 2, பல்வுள் தெரிக, வினா 1",
+    "verificationStatus": "VERIFIED_WITH_TEXTBOOK_CONTEXT"
+  },
+  {
+    "id": "TN11-TAM-U02-Q002",
+    "question": "மண்ணுக்கு வளம் சேர்ப்பவை எவை?",
+    "options": [
+      "மண்புழு",
+      "ஊடுபயிர்",
+      "இயற்கை உரங்கள்",
+      "இவை மூன்றும்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "மண்புழு, ஊடுபயிர், இயற்கை உரங்கள் ஆகிய மூன்றும் மண் வளத்தை மேம்படுத்துகின்றன. மற்றொரு வழிகாட்டியில் வேறுபட்ட விடை தரப்பட்டுள்ளதால் PDF பக்கத்துடன் இறுதி ஒப்பீடு செய்யும் வரை REVIEW_REQUIRED.",
+    "sourceUrl": "https://www.studentsguide360.com/11th-tamil-unit-2-book-back-answer/",
+    "sourcePage": "இயல் 2, பல்வுள் தெரிக, வினா 2",
+    "verificationStatus": "REVIEW_REQUIRED_SOURCE_CONFLICT"
+  },
+  {
+    "id": "TN11-TAM-U02-Q003",
+    "question": "‘போது’ என்ற சொல் உணர்த்தும் பொருள் எது?",
+    "options": [
+      "போதும்",
+      "காடு",
+      "மொட்டு",
+      "மேகம்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "இங்கு ‘போது’ என்பது மலரின் மொட்டு என்ற பொருளில் வருகிறது.",
+    "sourceUrl": "https://www.studentsguide360.com/11th-tamil-unit-2-book-back-answer/",
+    "sourcePage": "இயல் 2, பல்வுள் தெரிக, வினா 3",
+    "verificationStatus": "VERIFIED_WITH_TEXTBOOK_CONTEXT"
+  },
+  {
+    "id": "TN11-TAM-U02-Q004",
+    "question": "கருப்பட்டி, பனங்கற்கண்டு போன்றவை எந்த வகையைச் சேர்ந்தவை?",
+    "options": [
+      "மதிப்புக் கூட்டுப் பொருள்கள் மட்டும்",
+      "நேரடிப் பொருள்கள் மட்டும்",
+      "இரண்டும் சரி",
+      "அ தவறு, ஆ சரி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பதநீரைச் செயலாக்கி உருவாக்கப்படும் பொருட்கள் மதிப்புக் கூட்டுப் பொருள்களாகும்.",
+    "sourceUrl": "https://www.studentsguide360.com/11th-tamil-unit-2-book-back-answer/",
+    "sourcePage": "இயல் 2, பல்வுள் தெரிக, வினா 4",
+    "verificationStatus": "VERIFIED_WITH_TEXTBOOK_CONTEXT"
+  },
+  {
+    "id": "TN11-TAM-U02-Q005",
+    "question": "பிழையான தொடரைக் கண்டறிக.",
+    "options": [
+      "பதநீரிலிருந்து பனங்கற்கண்டு, கருப்பட்டி போன்றவற்றைத் தயாரிக்கின்றனர்.",
+      "காயா, கொன்றை, பிடவம் ஆகிய மலர்கள் முல்லை நிலத்தில் பூக்கக்கூடியன.",
+      "குறைந்த எட்டுத்தொகை அடிகளை ஐங்குறுநூறு நூல்களுள் உடையது.",
+      "யானைகளால் வெகு தொலைவில் உள்ள நீரினை வாசனை மூலம் அறியமுடியும்."
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "இந்தக் கூற்று பிழையானது என இரு வழிகாட்டிகளும் குறிக்கின்றன.",
+    "sourceUrl": "https://www.studentsguide360.com/11th-tamil-unit-2-book-back-answer/",
+    "sourcePage": "இயல் 2, பல்வுள் தெரிக, வினா 5",
+    "verificationStatus": "VERIFIED_WITH_TEXTBOOK_CONTEXT"
+  }
+]
