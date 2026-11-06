@@ -105,6 +105,21 @@
     "verificationStatus": "ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
   },
   {
+    "id": "TN11-TAM-U02-Q002",
+    "question": "மண்ணுக்கு வளம் சேர்ப்பன –",
+    "options": [
+      "மண்புழு",
+      "ஊடுபயிர்",
+      "இயற்கை உரங்கள்",
+      "இவை மூன்றும்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "மண்புழு, ஊடுபயிர், இயற்கை உரங்கள் ஆகிய மூன்றுமே இயற்கை வேளாண்மையில் மண்ணுக்கு வளம் சேர்ப்பவை ஆகும்.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_12017/",
+    "sourcePage": "இயல் 2, பல்வுள் தெரிக, வினா 2",
+    "verificationStatus": "ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
     "id": "TN11-TAM-U02-Q003",
     "question": "‘போது’ என்ற சொல் உணர்த்தும் பொருள் எது?",
     "options": [
