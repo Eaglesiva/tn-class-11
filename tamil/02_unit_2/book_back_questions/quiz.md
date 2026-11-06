@@ -57,3 +57,13 @@
 **விளக்கம்:** இந்தக் கூற்று பிழையானது என இரு வழிகாட்டிகளும் குறிக்கின்றன.
 
 **ஆதாரம்:** https://www.studentsguide360.com/11th-tamil-unit-2-book-back-answer/ (இயல் 2, பல்வுள் தெரிக, வினா 5)
+
+
+### 2. மண்ணுக்கு வளம் சேர்ப்பன –
+- அ) மண்புழு
+- ஆ) ஊடுபயிர்
+- இ) இயற்கை உரங்கள்
+- ஈ) இவை மூன்றும்
+- **சரியான விடை:** ஈ) இவை மூன்றும்
+- **ஆதாரம்:** https://www.brainkart.in/article/Questions-and-Answers_12017/
+- **Verification:** ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING
