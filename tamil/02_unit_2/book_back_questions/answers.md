@@ -47,3 +47,11 @@
 ## ஆய்வுக் குறிப்பு
 
 ஐந்து பல்வுள் வினாக்கள் ஆய்வு செய்யப்பட்டன. வினா 2-க்கு இரண்டு வழிகாட்டிகளில் முரண்பட்ட விடைகள் இருப்பதால் REVIEW_REQUIRED எனக் குறிக்கப்பட்டு மாணவர் Quiz-இல் சேர்க்கப்படவில்லை.
+
+
+### மண்ணுக்கு வளம் சேர்ப்பன –
+- **விடை:** இவை மூன்றும்
+- **காரணம்:** மண்புழு, ஊடுபயிர், இயற்கை உரங்கள் ஆகிய மூன்றுமே மண்ணுக்கு வளம் சேர்க்கின்றன.
+- **Source:** https://www.brainkart.in/article/Questions-and-Answers_12017/
+- **Source reference:** இயல் 2, பல்வுள் தெரிக, வினா 2
+- **Verification:** ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING
