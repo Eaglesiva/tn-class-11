@@ -16,20 +16,20 @@ Branch: main
 
 ## Answer source review
 - Unit 1: six one-mark/objective candidates included, sourced to the direct Unit 1 answer page at https://www.kalvitips.com/2025/06/11th-tamil-book-back-answers-unit-1-guide-tamilnadu-school-books.html.
-- Unit 2: four confirmed objective candidates included, sourced to https://www.studentsguide360.com/11th-tamil-unit-2-book-back-answer/.
-- Unit 2 question 2 (“மண்ணுக்கு வளம் சேர்ப்பவை”) is excluded from the published quiz and marked `REVIEW_REQUIRED_SOURCE_CONFLICT`: StudentsGuide360 gives “இவை மூன்றும்”, while BrainKart's guide page gives a different answer. Resolve only after checking the corresponding repository PDF page content.
+- Unit 2: five objective candidates are now included. The previously withheld soil-fertility item is added with answer “இவை மூன்றும்”, sourced to https://www.brainkart.in/article/Questions-and-Answers_12017/. This is an answer-source match; page-content comparison remains pending.
+- Unit 2 question 2 (“மண்ணுக்கு வளம் சேர்ப்பன”) has been added as `TN11-TAM-U02-Q002`, answer index 3 (“இவை மூன்றும்”). It is included in unit and master quiz, with page-content comparison still pending.
 
 ## Quiz QA
 | File | Records | Duplicate IDs | Invalid option sets | Invalid correct indexes | Missing source URLs |
 |---|---:|---:|---:|---:|---:|
 | Unit 1 quiz.json | 6 | 0 | 0 | 0 | 0 |
-| Unit 2 quiz.json | 4 | 0 | 0 | 0 | 0 |
-| Tamil master quiz.json | 10 | 0 | 0 | 0 | 0 |
+| Unit 2 quiz.json | 5 | 0 | 0 | 0 | 0 |
+| Tamil master quiz.json | 11 | 0 | 0 | 0 | 0 |
 
 - Every published item has exactly four distinct options.
 - Every `correctOptionIndex` is an integer from 0 to 3.
 - Master quiz is the ordered flattening of Unit 1 and Unit 2 quiz records.
-- `quiz.md` omits the unresolved Unit 2 item.
+- `quiz.md` includes the Unit 2 soil-fertility item.
 - Long-answer questions were not answered; placeholder guidance is preserved in each `answers.md`.
 
 ## Edition / validity status
@@ -37,3 +37,16 @@ Branch: main
 
 ## Next required action
 Open/extract the repository PDF pages for Unit 1 page 27 and Unit 2 pages 54–59, verify every published question and its option wording against those pages, resolve Unit 2 question 2, then update the verification status and master QA.
+
+
+## Follow-up update — Unit 2 item added
+- Added `TN11-TAM-U02-Q002` with four options and `correctOptionIndex: 3` to the Unit 2 quiz.
+- Updated Unit 2 `quiz.md`, `answers.md`, and subject Master Quiz; the Master Quiz now contains 11 records.
+- The answer is supported by the BrainKart guide URL, but remains `PAGE_CONTENT_COMPARISON_PENDING`; it is not labelled official textbook-page verified.
+
+## Unit 3–4 source consistency check (2026-11-06)
+- Actual repository paths are `tamil/03_unit_3/` and `tamil/04_unit_4/`; the alternate slugs supplied in the task are not present.
+- Existing `questions.md` files were inspected and retained.
+- Unit 3 supplied quiz data conflicts with existing `questions.md` on matching question 3 and sandhi question 4 (repository asks `முழவோசை`; supplied JSON asks `இனிதென`).
+- Unit 4 supplied quiz data conflicts with existing `questions.md` on matching question 2; supplied questions 3–5 do not match the existing repository objective section, which currently has only four objective questions and different items.
+- Therefore no Unit 3/4 quiz files were generated from mismatched supplied data. Resolve the source-version discrepancy against the relevant textbook PDF pages before writing quiz records. Existing questions.md files were not overwritten.
