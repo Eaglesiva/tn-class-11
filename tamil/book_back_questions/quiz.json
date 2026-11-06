@@ -298,5 +298,140 @@
     "sourceUrl": "https://www.kalviimayam.com/2025/07/11th-tamil-unit-4-book-back-answer.html",
     "sourcePage": "இயல் 4, நம்மை அளப்போம், வினா 4",
     "verificationStatus": "ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN11-TAM-U05-Q001",
+    "question": "பொருந்தாதைத் தேர்க.\nஅ) ஆனந்தரங்கர் எழுதிய நாள்குறிப்புகளப் பன்னிரண்டு தொகுதிகளாக வெளிவந்துள்ளன\nஆ) ஒவவொருநாள் நிகழவுக்கும் ஆண்டு, திங்கள், நாள், கிழமை, நேரம், நிகழவிடம் ஆகியவற்றைக் குறிப்பிடாமல் செய்திகளை எழுதியுள்ளார்\nஇ) ஆனந்தரங்கரின் நாள்குறிப்பு 18ஆம் நூற்றாண்டின் தமிழ்ச் சமூகத்தைப் படம்பிடித்துக் காட்டுவதாக அமைந்துள்ளது\nஈ) ஐரோப்பாவிலிருந்து இந்தியாவை அடையக் கப்பல்களுக்கு எட்டுத்திங்கள் தேவைப்பட்டன",
+    "options": [
+      "அ, ஆ",
+      "ஆ, இ",
+      "அ, இ",
+      "ஆ, ஈ"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "ஆனந்தரங்கர் ஒவ்வொரு நாளின் நிகழ்வுகளையும் காலம், இடம் உள்ளிட்ட விவரங்களுடன் பதிவு செய்தார்; ஐரோப்பாவிலிருந்து இந்தியா வரக் கப்பல்களுக்கு ஆறு மாதங்கள் தேவைப்பட்டன. எனவே ஆ, ஈ பொருந்தாத கூற்றுகள்.",
+    "sourceUrl": "https://www.kalviimayam.com/2025/07/11th-tamil-unit-5-book-back-answer.html",
+    "sourcePage": "இயல் 5, நம்மை அளப்போம், வினா 1",
+    "verificationStatus": "ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN11-TAM-U05-Q002",
+    "question": "ஆனந்தரங்கருக்குத் தொடர்பில்லாத குறிப்பைத் தேர்க.",
+    "options": [
+      "மொழிபெயர்ப்பாளர்",
+      "இந்தியாவின் பெப்பிசு",
+      "பிரஞ்சு ஆளுநரின் தலைமை மொழிபெயர்ப்பாளர்",
+      "உலக நாள்குறிப்பு இலக்கியத்தின் தந்தை"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "ஆனந்தரங்கர் இந்தியாவின் பெப்பிசு என்றும் பிரெஞ்சு ஆளுநரின் தலைமை மொழிபெயர்ப்பாளராகவும் அறியப்படுகிறார்; 'உலக நாள்குறிப்பு இலக்கியத்தின் தந்தை' என்பது அவருக்குரிய தொடர்பற்ற குறிப்பு.",
+    "sourceUrl": "https://www.kalviimayam.com/2025/07/11th-tamil-unit-5-book-back-answer.html",
+    "sourcePage": "இயல் 5, நம்மை அளப்போம், வினா 2",
+    "verificationStatus": "ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN11-TAM-U05-Q003",
+    "question": "கூற்று: எட்டுத்தொகை நூல்களுள் ஒன்றான பதிற்றுப்பத்து, புறம் சார்ந்த நூல்.\nகாரணம்: சேரமன்னரப் பதின்மரின் சிறப்புகளைக் கூறுகிறது இந்நூல்.",
+    "options": [
+      "கூற்று சரி; காரணம் தவறு",
+      "இரண்டும் சரி",
+      "இரண்டிற்கும் தொடர்பில்லை",
+      "கூற்று தவறு; காரணம் சரி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பதிற்றுப்பத்து புறத்திணை சார்ந்த எட்டுத்தொகை நூல்; சேர மன்னர்களின் சிறப்புகளைப் பாடுவதால் கூற்றும் காரணமும் சரி.",
+    "sourceUrl": "https://www.kalviimayam.com/2025/07/11th-tamil-unit-5-book-back-answer.html",
+    "sourcePage": "இயல் 5, நம்மை அளப்போம், வினா 3",
+    "verificationStatus": "ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN11-TAM-U05-Q004",
+    "question": "சரியானதைத் தேர்ந்தெடுக்க.\nஅ) வரை – மலை\nஆ) வதுவை – திருமணம்\nஇ) வாரணம் – யானை\nஈ) புடவி – கடல்",
+    "options": [
+      "அ, ஆ, இ – சரி; ஈ – தவறு",
+      "ஆ, இ, ஈ – சரி; அ – தவறு",
+      "அ, இ, ஈ – சரி; ஆ – தவறு",
+      "அ, ஆ, ஈ – சரி; இ – தவறு"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "வரை–மலை, வதுவை–திருமணம், வாரணம்–யானை ஆகிய பொருத்தங்கள் சரி; புடவி என்பது உலகம்/பூமி எனப் பொருள்படும், கடல் அல்ல.",
+    "sourceUrl": "https://www.kalviimayam.com/2025/07/11th-tamil-unit-5-book-back-answer.html",
+    "sourcePage": "இயல் 5, நம்மை அளப்போம், வினா 4",
+    "verificationStatus": "ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN11-TAM-U06-Q001",
+    "question": "'ஜனப்பிரளயம்' என்னும் வடமொழிச் சொல்லுக்குரிய தமிழ்ச்சொல்லைத் தேர்க.",
+    "options": [
+      "மக்கள் அலை",
+      "உயிர் அலை",
+      "மக்கள் வெள்ளம்",
+      "மக்கள் அவை"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "'ஜனப்பிரளயம்' என்பதற்கு மக்கள் திரளாகப் பெருகி வரும் வெள்ளம் என்ற பொருளில் 'மக்கள் வெள்ளம்' பொருந்தும்.",
+    "sourceUrl": "https://www.studentsguide360.com/11th-tamil-unit-6-book-back-answer/",
+    "sourcePage": "இயல் 6, நம்மை அளப்போம், வினா 1",
+    "verificationStatus": "ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN11-TAM-U06-Q002",
+    "question": "அதிசய மலரின் புன்னகை உணர்த்துவது எது?",
+    "options": [
+      "நம்பிக்கை",
+      "பெருமிதம்",
+      "புகழ்",
+      "அச்சம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அழிவுக்குப் பின் முளைக்கும் மலரும் அதனை நாடி வரும் வண்ணத்துப்பூச்சியும் மீண்டும் வாழ்வு மலரும் என்ற நம்பிக்கையை உணர்த்துகின்றன.",
+    "sourceUrl": "https://www.studentsguide360.com/11th-tamil-unit-6-book-back-answer/",
+    "sourcePage": "இயல் 6, நம்மை அளப்போம், வினா 2",
+    "verificationStatus": "ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN11-TAM-U06-Q003",
+    "question": "“அழகும் அறிவும் இளமையும் வாய்த்தவன்” – யார், யாரிடம் கூறியது?",
+    "options": [
+      "அமைச்சர் கவிஞரிடம்",
+      "மன்னர் அமைச்சரிடம்",
+      "அமைச்சர் மன்னரிடம்",
+      "மன்னர் அமுதவல்லியிடம்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "இவ்வுரையை மன்னர் அமுதவல்லியிடம் கூறுகிறார்.",
+    "sourceUrl": "https://www.studentsguide360.com/11th-tamil-unit-6-book-back-answer/",
+    "sourcePage": "இயல் 6, நம்மை அளப்போம், வினா 3",
+    "verificationStatus": "ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN11-TAM-U06-Q004",
+    "question": "கூற்று: மாணவர்கள் பள்ளியில் பயில்கின்றபோதே கூடுதல் திறன்களை வளர்த்துக் கொள்ள வேண்டும்.\nகாரணம்: இத்திறன்கள் எதிர்காலத்தில் மாணவர்களின் வாழ்க்கைக்கு வழிகாட்டும்.",
+    "options": [
+      "கூற்று தவறு; காரணம் சரி",
+      "கூற்று சரி; காரணம் சரி",
+      "கூற்று சரி; காரணம் தவறு",
+      "கூற்று தவறு; காரணம் தவறு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "கூடுதல் திறன்கள் மாணவர்களின் எதிர்கால வாழ்க்கைக்கு வழிகாட்டுவதால் கூற்றும் காரணமும் சரி.",
+    "sourceUrl": "https://www.studentsguide360.com/11th-tamil-unit-6-book-back-answer/",
+    "sourcePage": "இயல் 6, நம்மை அளப்போம், வினா 4",
+    "verificationStatus": "ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN11-TAM-U06-Q005",
+    "question": "பிழைத் திருத்தத்தில் Dt இக்குறியீடு உணர்த்தும் பொருள் எது?",
+    "options": [
+      "ஒற்றை மேற்கோள் குறியிடுக",
+      "தடித்த எழுத்தில் மாற்றுக",
+      "சொற்களுக்கிடையே இடைவெளி தருக",
+      "சொல்லையோ எழுத்தையோ நீக்குக"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "Dt (Delete) குறியீடு சொல்லையோ எழுத்தையோ நீக்க வேண்டும் என்பதைக் குறிக்கிறது.",
+    "sourceUrl": "https://www.studentsguide360.com/11th-tamil-unit-6-book-back-answer/",
+    "sourcePage": "இயல் 6, நம்மை அளப்போம், வினா 5",
+    "verificationStatus": "ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
   }
 ]
