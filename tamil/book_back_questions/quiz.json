@@ -433,5 +433,20 @@
     "sourceUrl": "https://www.studentsguide360.com/11th-tamil-unit-6-book-back-answer/",
     "sourcePage": "இயல் 6, நம்மை அளப்போம், வினா 5",
     "verificationStatus": "ANSWER_SOURCE_MATCHED; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
+  },
+  {
+    "id": "TN11-TAM-U05-Q005",
+    "question": "சொற்களை ஒழுங்குபடுத்திச் சரியான தொடரைத் தெரிவு செய்க.",
+    "options": [
+      "நான் எழுதுவதோடு இன்று இலக்கிய மேடைகளிலும் இதழ்களில் பேசுகிறேன்.",
+      "இன்று நான் இதழ்களில் எழுதுவதோடு இலக்கிய மேடைகளிலும் பேசுகிறேன்.",
+      "இலக்கிய மேடைகளிலும் இன்று எழுதுவதோடு நான் இதழ்களில் பேசுகிறேன்.",
+      "இதழ்களில் பேசுகிறேன் நான் இன்று இலக்கிய மேடைகளிலும் எழுதுவதோடு."
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "'இன்று நான் இதழ்களில் எழுதுவதோடு இலக்கிய மேடைகளிலும் பேசுகிறேன்' என்பதே சொற்களின் இயல்பான வரிசையுடன் அமைந்த சரியான சொற்றொடர்.",
+    "sourceUrl": "https://padasalai.info/wp-content/uploads/2025/05/7-11th-tamil-one-marks-question-bank.pdf",
+    "sourcePage": "இயல் 5, நம்மை அளப்போம், வினா 5",
+    "verificationStatus": "QUESTION_MATCHED_IN_REPOSITORY; ANSWER_SUPPORTED_BY_REFERENCE_MATERIAL; REPOSITORY_PDF_PAGE_PRESENT; PAGE_CONTENT_COMPARISON_PENDING"
   }
 ]
