@@ -24,3 +24,11 @@ See the [Common SCERT Edition Verification Blueprint](https://github.com/Eaglesi
 ## Common master register
 
 [Open Class 11 in the one-click Master Cross-Verification Index](https://github.com/Eaglesiva/tn-schools-project/blob/main/docs/03-edition-register/MASTER_CROSS_VERIFICATION_INDEX.md#class-11)
+
+## Supplementary update evidence
+
+- [Batch 1 report](class_11_batch_1_report.md)
+- [Batch 2 report](class_11_batch_2_report.md)
+- [Batch 3 report](class_11_batch_3_report.md)
+- [Batch 4 report](class_11_batch_4_report.md)
+- [Official update-branch verification report](class11_verification_report_update_branch.md)
